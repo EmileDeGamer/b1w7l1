@@ -10,7 +10,7 @@
 
 .grid-row{
     background-color: white;
-    grid-row: 1 / 10;
+    grid-column: 1 / 10;
 }
 
 .grid-item-standing{
